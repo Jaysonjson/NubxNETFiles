@@ -1,7 +1,14 @@
 {
-  "serial": "XVImIOJD4mWcFdoxWKIxhBxoT",
-  "name": "null",
-  "link": "null",
-  "experimental": false,
-  "id": 0
+  "Experimental": {
+    "serial": "bMyz0jrYpAprnNwPzqsP5POz7",
+    "name": "null",
+    "link": "null",
+    "id": 0
+  },
+  "Standard": {
+    "serial": "jsxyOchOIGG6PagushNbczp00",
+    "name": "null",
+    "link": "null",
+    "id": 0
+  }
 }
