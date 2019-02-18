@@ -2,7 +2,6 @@
   "level_currency": 1000,
   "color_blue": false,
   "color_red": false,
-  "settings_currency_reward_notification": true,
   "level": 201,
   "color_white": false,
   "vouches_player": [],
@@ -17,9 +16,8 @@
   "model_count": 3,
   "blocked_dice": false,
   "currency": 396,
-  "offering_recruitment_check": true,
   "id": "caM36481LrX497pUOZ",
   "muted": false,
-  "message_currency_count": 1,
+  "message_currency_count": 2,
   "presents": 10
 }
