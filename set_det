@@ -1,9 +1,9 @@
 {
-  "Experimental": {                        <--- Type
-    "serial": "Pj2xFqZ0bkJIG2GhHfTxkjIO9", <--- Build Serial
-    "name": "null",                        <--- Name of the File
-    "link": "null",                        <--- Download Link: General: Dropbox
-    "id": 0                                <--- Build ID
+  "Experimental": {                        
+    "serial": "Pj2xFqZ0bkJIG2GhHfTxkjIO9", 
+    "name": "null",                        
+    "link": "null",                       
+    "id": 0                               
   },
   "Standard": {
     "serial": "2XpRJssTNphkXAAiOI4pygsyX",
@@ -11,5 +11,5 @@
     "link": "",
     "id": 0
   },
-  "Time": "2019-02-17T20:58:51.267"         <--- Time of Build
+  "Time": "2019-02-17T20:58:51.267"        
 }
