@@ -1,7 +1,3 @@
-version = 1
-
-[toml]
-
 [json]
 server_set = "https://raw.githubusercontent.com/Jaysonjson/NubxNETFiles/master/files/server.set"
 currency_set = "https://raw.githubusercontent.com/Jaysonjson/NubxNETFiles/master/files/currency.set"
